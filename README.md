@@ -44,10 +44,7 @@
 ---
 
 ## 🤠 GIF Especial
-<p align="center">
-  <img src="assets/cowboy.gif" alt="Cowboy GIF"/>
-</p>
-
+![ea0aabd9d1ebd7b18f8ffdc5336e73c4](https://github.com/user-attachments/assets/bc0f8db0-cd3f-457c-9bc8-947270200782)
 ---
 
 ## 🌐 Contatos
