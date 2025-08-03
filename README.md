@@ -50,3 +50,6 @@
   </a>
   <a href="mailto:joseeliasdeoliveiralopes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif" alt="Dio Brando GIF" width="300"/>
+</p>
