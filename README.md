@@ -43,9 +43,9 @@
 
 ---
 
-## Dio Brando
+## Dexter Morgan
 <p align="center">
-  <img src="https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif" alt="Dio Brando GIF" width="300"/>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Dexter Morgan GIF" width="300"/>
 </p>
 
 ---
