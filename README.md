@@ -31,25 +31,4 @@
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | [Jogo da Cobrinha](https://github.com/SEU_USUARIO/snake-game) | Um clássico jogo da cobrinha feito em Python. | Python |
-| [Portfolio Web](https://github.com/SEU_USUARIO/portfolio) | Meu portfólio pessoal moderno e responsivo. | HTML, CSS |
-| [Algoritmos em C++](https://github.com/SEU_USUARIO/algorithms) | Repositório com exercícios e algoritmos em C++. | C++ |
-
----
-
-## 🐍 Jogo da Cobrinha
-<p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🌐 Contatos
-<p align="center">
-  <a href="https://www.linkedin.com/in/josé-elias-bb4b1528b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:joseeliasdeoliveiralopes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<p align="center">
-  <img src="https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif" alt="Dio Brando GIF" width="300"/>
-</p>
+| [Portfolio Web](
