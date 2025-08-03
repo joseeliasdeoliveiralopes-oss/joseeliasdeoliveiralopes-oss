@@ -21,8 +21,8 @@
 
 ## 📈 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joseelias&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseelias&layout=compact&theme=tokyonight" alt="Top langs"/>
 </p>
 
 ---
@@ -30,21 +30,24 @@
 ## ✨ Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Jogo da Cobrinha](https://github.com/SEU_USUARIO/snake-game) | Um clássico jogo da cobrinha feito em Python. | Python |
-| [Portfolio Web](https://github.com/SEU_USUARIO/portfolio) | Meu portfólio pessoal moderno e responsivo. | HTML, CSS |
-| [Algoritmos em C++](https://github.com/SEU_USUARIO/algorithms) | Repositório com exercícios e algoritmos em C++. | C++ |
+| [🎮 Jogo da Cobrinha](https://github.com/joseelias/snake-game) | Um clássico jogo da cobrinha feito em Python. | Python |
+| [🌐 Portfolio Web](https://github.com/joseelias/portfolio) | Meu portfólio pessoal moderno e responsivo. | HTML, CSS |
+| [⚡ Algoritmos em C++](https://github.com/joseelias/algorithms) | Repositório com exercícios e algoritmos em C++. | C++ |
 
 ---
 
 ## 🐍 Jogo da Cobrinha
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/snake.svg" alt="snake animation"/>
+  <img src="https://github.com/joseelias/joseelias/blob/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
+
+## 🤠 GIF Especial
 <p align="center">
   <img src="assets/cowboy.gif" alt="Cowboy GIF"/>
 </p>
+
 ---
 
 ## 🌐 Contatos
