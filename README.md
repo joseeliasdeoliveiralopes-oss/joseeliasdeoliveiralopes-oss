@@ -42,12 +42,9 @@
 </p>
 
 ---
-
-## Dexter Morgan
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Dexter Morgan GIF" width="300"/>
+  <img src="assets/cowboy.gif" alt="Cowboy GIF"/>
 </p>
-
 ---
 
 ## 🌐 Contatos
