@@ -1,4 +1,4 @@
-<h1 align="center">👨🏻‍💻 José Elias</h1>
+<h1 align="center">👨‍💻 José Elias</h1>
 <p align="center">
   <strong>Estudante de Programação | Desenvolvedor em Formação</strong>
 </p>
@@ -38,7 +38,7 @@
 
 ## 🐍 Jogo da Cobrinha
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -47,4 +47,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/josé-elias-bb4b1528b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </
+  </a>
+  <a href="mailto:joseeliasdeoliveiralopes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
